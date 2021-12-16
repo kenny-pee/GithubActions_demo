@@ -35,3 +35,4 @@ jobs:
       run: |
         export PYTHONPATH=src
         pytest
+
