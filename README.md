@@ -11,3 +11,12 @@ Building and testing code requires a server. You can build and test updates loca
 ## Continuous Deployment
 
 CD is a strategy for software releases wherein any code commit that passes the automated testing phase is automatically released into the prod env, making changes that are visible to the software users.
+
+## Github Actions:
+
+1) Runs github checkout
+2) Setup CPython
+3) Install dependencies
+4) Check for syntax errors / undefined variables
+5) Test app with Pytest
+6) Deploy onto Heroku
