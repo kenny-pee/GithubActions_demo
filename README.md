@@ -15,7 +15,7 @@ CD is a strategy for software releases wherein any code commit that passes the a
 ## Github Actions:
 
 ![image](https://user-images.githubusercontent.com/70102666/146469661-93208cb6-a32b-4164-89c2-e36beee6d251.png)
-
+<center>CI pipeline with Github and Heroku</center>
 
 1) Runs github checkout
 2) Setup CPython
